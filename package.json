@@ -1,0 +1,27 @@
+{
+  "name": "child-process-query",
+  "version": "1.0.0",
+  "description": "Provides a framework for easily querying spawned child processes through their CLI using callbacks instead of having to rely on parsing their output separate from the command invocation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrb467/client-process-query.git"
+  },
+  "keywords": [
+    "child",
+    "process",
+    "spawn",
+    "CLI",
+    "query",
+    "async"
+  ],
+  "author": "Jacob Bigenwald <jrb467@cornell.edu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jrb467/client-process-query/issues"
+  },
+  "homepage": "https://github.com/jrb467/client-process-query#readme"
+}
